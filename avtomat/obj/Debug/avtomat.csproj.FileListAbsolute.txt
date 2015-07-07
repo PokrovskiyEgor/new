@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2012\Projects\avtomat\avtomat\bin\Debug\avtomat.exe.config
+C:\Users\1\documents\visual studio 2012\Projects\avtomat\avtomat\bin\Debug\avtomat.exe
+C:\Users\1\documents\visual studio 2012\Projects\avtomat\avtomat\bin\Debug\avtomat.pdb
+C:\Users\1\documents\visual studio 2012\Projects\avtomat\avtomat\obj\Debug\avtomat.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2012\Projects\avtomat\avtomat\obj\Debug\avtomat.exe
+C:\Users\1\documents\visual studio 2012\Projects\avtomat\avtomat\obj\Debug\avtomat.pdb
